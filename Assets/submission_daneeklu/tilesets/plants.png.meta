@@ -1,0 +1,1146 @@
+fileFormatVersion: 2
+guid: dcc7952cf3e3b4efb8a1835dd2fa3d8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3527876879021525145
+    second: tomato_seedling
+  - first:
+      213: -1927889906097043966
+    second: potato_seedling
+  - first:
+      213: 5004531278555049960
+    second: artichoke_seedling
+  - first:
+      213: -5395861003456798081
+    second: pepper_seedling
+  - first:
+      213: -6800931340347744238
+    second: cucumber_seedling
+  - first:
+      213: 3017316628048636319
+    second: corn_seedling
+  - first:
+      213: -4350115279957141132
+    second: tomato_immature
+  - first:
+      213: -810785574404401188
+    second: potato_immature
+  - first:
+      213: -3030608088069509471
+    second: carrot_immature
+  - first:
+      213: -5568842699155709627
+    second: artichoke_immature
+  - first:
+      213: -2185335503829088403
+    second: pepper_immature
+  - first:
+      213: 6915438452729039185
+    second: cucumber_immature
+  - first:
+      213: 6984442412936397737
+    second: corn_immature
+  - first:
+      213: -2245023530354808097
+    second: tomato_fruiting
+  - first:
+      213: 3275049470109395508
+    second: potato_fruiting
+  - first:
+      213: 8482285269433270328
+    second: carrot_fruiting
+  - first:
+      213: -7143087039398124151
+    second: artichoke_fruiting
+  - first:
+      213: 5924623212766854295
+    second: pepper_fruiting
+  - first:
+      213: -7059391928232544011
+    second: cucumber_fruiting
+  - first:
+      213: -3521152321408532758
+    second: corn_fruiting
+  - first:
+      213: -385290471789066283
+    second: tomato_ripe
+  - first:
+      213: -4231635334726906192
+    second: potato_ripe
+  - first:
+      213: 3390126664149698875
+    second: carrot_ripe
+  - first:
+      213: -2249434992766814959
+    second: artichoke_ripe
+  - first:
+      213: 5328145295879839526
+    second: pepper_ripe
+  - first:
+      213: -3019525895240463030
+    second: cucumber_ripe
+  - first:
+      213: 3278829644637341985
+    second: corn_ripe
+  - first:
+      213: 968803793874081956
+    second: tomato_harvested
+  - first:
+      213: -5286125387984224900
+    second: potato_harvested
+  - first:
+      213: -5119893442609476536
+    second: carrot_harvested
+  - first:
+      213: 2393381137972445386
+    second: artichoke_harvested
+  - first:
+      213: 1181448965997768054
+    second: pepper_harvested
+  - first:
+      213: 7842343618658517417
+    second: cucumber_harvested
+  - first:
+      213: -6177575451595206957
+    second: corn_harvested
+  - first:
+      213: -4938982115208973816
+    second: tomatoes
+  - first:
+      213: 6211092494976579438
+    second: plants_35
+  - first:
+      213: -3391556680458123218
+    second: carrots
+  - first:
+      213: 3057675692530835814
+    second: artichoke
+  - first:
+      213: -8321886959466736737
+    second: pepper
+  - first:
+      213: 2069992328310058220
+    second: cucumber
+  - first:
+      213: -862800679913824809
+    second: corn
+  - first:
+      213: -3527876879021525145
+    second: tomato_seedling
+  - first:
+      213: -4350115279957141132
+    second: tomato_immature
+  - first:
+      213: -2245023530354808097
+    second: tomato_fruiting
+  - first:
+      213: -385290471789066283
+    second: tomato_ripe
+  - first:
+      213: 968803793874081956
+    second: tomato_harvested
+  - first:
+      213: -9012109772479066991
+    second: carrot_seedling
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tomato_seedling
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 324
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac251a901bec4cb9a0a30c64639380c
+      internalID: -3527876879021525145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato_seedling
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 325
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6278b86dd9e9b441782d4454b86f1c5e
+      internalID: -1927889906097043966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artichoke_seedling
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 322
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68916ca76a57044df82a8f4837630256
+      internalID: 5004531278555049960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pepper_seedling
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 322
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29acb984f117a4022a030d78a4f099b2
+      internalID: -5395861003456798081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cucumber_seedling
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 322
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef1e97c4ed4a48d9881385c665f1795
+      internalID: -6800931340347744238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_seedling
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 322
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2b29482cc8e434cb3c124acff01fae
+      internalID: 3017316628048636319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato_immature
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 258
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dbf43fbb7e54d43bdb081a07ab7970
+      internalID: -4350115279957141132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato_immature
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 259
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c047a8cd49db408dbbe34e50345a80d
+      internalID: -810785574404401188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrot_immature
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 257
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c5404fbce1e4e46af7fbeeb56384ac
+      internalID: -3030608088069509471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artichoke_immature
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 258
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8d9aca8b06c425882cb7f2b5a0c36d
+      internalID: -5568842699155709627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pepper_immature
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 257
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d71a4f1ef5db4baea8c0d5beac14904
+      internalID: -2185335503829088403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cucumber_immature
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 258
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb1ff8a88b024f75b5705a25e47c9e2
+      internalID: 6915438452729039185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_immature
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 259
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ad72b6d0f0c446d83f97797994ffbd
+      internalID: 6984442412936397737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato_fruiting
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 195
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b512f357f82f4422faca75ff9b6c8122
+      internalID: -2245023530354808097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato_fruiting
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 196
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f875ebf2b434fc195b9f8f9071b039
+      internalID: 3275049470109395508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrot_fruiting
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 194
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a37c7864c644153bae84846f394159
+      internalID: 8482285269433270328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artichoke_fruiting
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 195
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c2bb0c15faf4339b678a0c8194786e
+      internalID: -7143087039398124151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pepper_fruiting
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 194
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5441f15703564490c8b3c5ddfd6a943b
+      internalID: 5924623212766854295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cucumber_fruiting
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 195
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68df47b0ddf134292a4534f8eb6cba63
+      internalID: -7059391928232544011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_fruiting
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 193
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe576ff212a24642bac5ee29e821436
+      internalID: -3521152321408532758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato_ripe
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 131
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58117be38fa064763a90b855723b22b7
+      internalID: -385290471789066283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato_ripe
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 131
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703c01582c6484823867f1766ede6961
+      internalID: -4231635334726906192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrot_ripe
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a3107de12d442238b060b6e826b114
+      internalID: 3390126664149698875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artichoke_ripe
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 131
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529385a2653ca4afdaec96fa4fee5fda
+      internalID: -2249434992766814959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pepper_ripe
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 130
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92de1ca639474240b1c5ba8b654494f
+      internalID: 5328145295879839526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cucumber_ripe
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 131
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a8a78e54a245bfb8ea590539650ee
+      internalID: -3019525895240463030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_ripe
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 129
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b5e53bbc5b34612ad657dbeda94e76
+      internalID: 3278829644637341985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato_harvested
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9b0a56960594dceb1f956752829354
+      internalID: 968803793874081956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potato_harvested
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 67
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c519b94acb1ee465191b4e7323f142b8
+      internalID: -5286125387984224900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrot_harvested
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc411f90dbd1e40d59b3bec5bbbc64e4
+      internalID: -5119893442609476536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artichoke_harvested
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 67
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d228df4090d493d9aea66481ec3fad
+      internalID: 2393381137972445386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pepper_harvested
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 66
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae27c7ea96264355a853ba162894dd2
+      internalID: 1181448965997768054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cucumber_harvested
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 67
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31af2f32036fd467c96f4bcef7004e3b
+      internalID: 7842343618658517417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn_harvested
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc5482072e2d42b8a8833ef2e24b638
+      internalID: -6177575451595206957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomatoes
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f4746ab223f42cba403d5c4fac7ec1
+      internalID: -4938982115208973816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_35
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513f02ef2b0ed49e182673f7a626ac1a
+      internalID: 6211092494976579438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrots
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aabd4e86c9a49e68b9ed3c177f1ea6
+      internalID: -3391556680458123218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: artichoke
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 5
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732b0dc07bbc74169be542d5a9909a5c
+      internalID: 3057675692530835814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pepper
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 5
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d3d056fc05c46f4977a9ee25212c41
+      internalID: -8321886959466736737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cucumber
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 4
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fd5fb977ce647b9b76c93392e91cc7
+      internalID: 2069992328310058220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: corn
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24f74ec417ec4c1aaf77e53d62b4ab1
+      internalID: -862800679913824809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrot_seedling
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 324
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70c136d134e04e7abed9eed87332f26
+      internalID: -9012109772479066991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 292b31c5ff77c46ad8f224fc10152ed5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

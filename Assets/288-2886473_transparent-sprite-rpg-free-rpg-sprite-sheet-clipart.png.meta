@@ -1,0 +1,2427 @@
+fileFormatVersion: 2
+guid: 3e2c6ddd30dcd4b278b81f9250ec221d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2684697438408003111
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_0
+  - first:
+      213: 188210239889742879
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_1
+  - first:
+      213: 105718081471170231
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_2
+  - first:
+      213: 6791909638373730485
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_3
+  - first:
+      213: 8228810195630684792
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_4
+  - first:
+      213: 5459624295941641131
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_5
+  - first:
+      213: -974538083324165257
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_6
+  - first:
+      213: -1237845802644022742
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_7
+  - first:
+      213: -1060077960163379500
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_8
+  - first:
+      213: -315369006799076791
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_9
+  - first:
+      213: -9104949002898743458
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_10
+  - first:
+      213: -1937026992935209044
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_11
+  - first:
+      213: 3143440839771967124
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_12
+  - first:
+      213: 4225756675281454899
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_13
+  - first:
+      213: -7268320689438189428
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_14
+  - first:
+      213: 8191131836714422210
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_15
+  - first:
+      213: 8016329368918727405
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_16
+  - first:
+      213: -5080510662037500154
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_17
+  - first:
+      213: 5565428466403401255
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_18
+  - first:
+      213: -3469522109747740414
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_19
+  - first:
+      213: 2824796452644522455
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_20
+  - first:
+      213: -5252049085656747126
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_21
+  - first:
+      213: 889804162230933549
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_22
+  - first:
+      213: -6723774652797934844
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_23
+  - first:
+      213: -1725724794088137489
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_24
+  - first:
+      213: 8979514066963912539
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_25
+  - first:
+      213: 6829074838598837537
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_26
+  - first:
+      213: -4260086498989513238
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_27
+  - first:
+      213: 4244070434934705925
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_28
+  - first:
+      213: -4232994313595896746
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_29
+  - first:
+      213: -4262209287869435824
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_30
+  - first:
+      213: 523517764927466012
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_31
+  - first:
+      213: -5845415643873635357
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_32
+  - first:
+      213: 2371215792818617259
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_33
+  - first:
+      213: 2436288251762138985
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_34
+  - first:
+      213: -8088301422274753124
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_35
+  - first:
+      213: 7691426137696513271
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_36
+  - first:
+      213: 7670434708696466654
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_37
+  - first:
+      213: -3665330344505518062
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_38
+  - first:
+      213: 2301181904404899293
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_39
+  - first:
+      213: 246220277088545733
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_40
+  - first:
+      213: 7958499561230642987
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_41
+  - first:
+      213: 2239131148179525222
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_42
+  - first:
+      213: 1012583618506035982
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_43
+  - first:
+      213: -2322343675120504482
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_44
+  - first:
+      213: 6429434116052096393
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_45
+  - first:
+      213: 6987757839843896618
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_46
+  - first:
+      213: 7963533808082853092
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_47
+  - first:
+      213: -1657381230946035332
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_48
+  - first:
+      213: -4396573933003103070
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_49
+  - first:
+      213: -8169762550215343087
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_50
+  - first:
+      213: 5921196197986405868
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_51
+  - first:
+      213: -6484928346982780953
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_52
+  - first:
+      213: 130440093370013658
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_53
+  - first:
+      213: -541893554570743815
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_54
+  - first:
+      213: -1492050999162831117
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_55
+  - first:
+      213: -5205643665565568008
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_56
+  - first:
+      213: 5906000667692057942
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_57
+  - first:
+      213: -1535339663144272664
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_58
+  - first:
+      213: -6032298525972229741
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_59
+  - first:
+      213: -8855028483733601237
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_60
+  - first:
+      213: 7338798639409974491
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_61
+  - first:
+      213: -4131428664969093378
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_62
+  - first:
+      213: -7567408974998411117
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_63
+  - first:
+      213: 5530024048595774560
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_64
+  - first:
+      213: 7843792458715655615
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_65
+  - first:
+      213: 502237255972473310
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_66
+  - first:
+      213: 8192378585441130645
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_67
+  - first:
+      213: -8378949537331600703
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_68
+  - first:
+      213: -2240858073293472550
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_69
+  - first:
+      213: 115113737467356066
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_70
+  - first:
+      213: -6966174967103055796
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_71
+  - first:
+      213: 3862658632208960604
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_72
+  - first:
+      213: -7030793690382881283
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_73
+  - first:
+      213: -5942438848607567257
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_74
+  - first:
+      213: 5236743918033875650
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_75
+  - first:
+      213: -6722087554943562046
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_76
+  - first:
+      213: 4124976951238573115
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_77
+  - first:
+      213: 8247642533918186266
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_78
+  - first:
+      213: 2363691216959405940
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_79
+  - first:
+      213: -8912977795969824864
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_80
+  - first:
+      213: -3284085093327101575
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_81
+  - first:
+      213: 7082255255958714012
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_82
+  - first:
+      213: -3745272442380524093
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_83
+  - first:
+      213: -7707678083009170638
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_84
+  - first:
+      213: 8360881947057472245
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_85
+  - first:
+      213: -2167535230178571331
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_86
+  - first:
+      213: 3664183928882578966
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_87
+  - first:
+      213: -8572926039333484952
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_88
+  - first:
+      213: 4628509049736324192
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_89
+  - first:
+      213: -7932687281707794916
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_90
+  - first:
+      213: -144882446599955915
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_91
+  - first:
+      213: -8486540897222210384
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_92
+  - first:
+      213: 5760980064570991280
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_93
+  - first:
+      213: -2139987356248913323
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_94
+  - first:
+      213: -690432745777500177
+    second: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_95
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 504
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f17cc084dd9a49db81e3d1558c632a7
+      internalID: 2684697438408003111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 504
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eb550540c124fe4817c7131495b4d1
+      internalID: 188210239889742879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 504
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9682a43f9bf2409cafbbfffa3a708ee
+      internalID: 105718081471170231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 504
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d9fed21549e4655a609636952208f9
+      internalID: 6791909638373730485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 504
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b5bb662a3ac4f41a87900f664c3772
+      internalID: 8228810195630684792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 504
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc607eb532b4912ac96954cd2a2a8b
+      internalID: 5459624295941641131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 504
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217967535d27c4d4e88e72bccc20f795
+      internalID: -974538083324165257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 504
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9afb874858847fa88e45fc2fff7ae4
+      internalID: -1237845802644022742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 504
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b69c173981248c48188946cd22bee7
+      internalID: -1060077960163379500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 504
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce75f0cd297943f5b3a12e9f6a43486
+      internalID: -315369006799076791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_10
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 504
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41d0f48f3ce94defa89a5c5f34a7569
+      internalID: -9104949002898743458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_11
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 504
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2b1e6cce7854c3d9697f151f8abe8c
+      internalID: -1937026992935209044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 432
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85337a4f12191477e9875e31ef51cc92
+      internalID: 3143440839771967124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 432
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6375d6970a4e406aac100a7c1af4179
+      internalID: 4225756675281454899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 432
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1a5a00c006549ba99ad568901669ef
+      internalID: -7268320689438189428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 432
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b011cf8e6397479881112a68325f6f9
+      internalID: 8191131836714422210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 432
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d539089f19d024d729bccee296c1b4e3
+      internalID: 8016329368918727405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 432
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd746740ebb147e799fdbbc35ce5370
+      internalID: -5080510662037500154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 432
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8fb6eedfb1b4ed9b13976cead4ef44
+      internalID: 5565428466403401255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 432
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291e3e50e2558462aafb71189198802a
+      internalID: -3469522109747740414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 432
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48a51aef4bcf477787ddcc314d1cfb2
+      internalID: 2824796452644522455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 432
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd074f95db3c488f95153661fe72fab
+      internalID: -5252049085656747126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 432
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8fb055da19e4504b90110ec76f75f5
+      internalID: 889804162230933549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_23
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 432
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b7b78c6e25446d494f3f8ae2792e45
+      internalID: -6723774652797934844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 360
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c663ec01fc64acf8069577e51f90a7
+      internalID: -1725724794088137489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 360
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8ff3f370a084f52ac18d29db68bdc1
+      internalID: 8979514066963912539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 360
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2365cae6bf8d4ddd9ed0d750882b027
+      internalID: 6829074838598837537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 360
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163c66a2e977e457eacdb15a64a9f058
+      internalID: -4260086498989513238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 360
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1736a69244d41b6885281da08bbb78
+      internalID: 4244070434934705925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 360
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9fe8bb36e064de68e440f286988b2c
+      internalID: -4232994313595896746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 360
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a29d42cd0b24c3ea3a50854a8b500a
+      internalID: -4262209287869435824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_31
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 360
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1449f0937441d8bf9c22a61ecd4f3
+      internalID: 523517764927466012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 360
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1565e22ec0bd4b868cc26139e1a8f54
+      internalID: -5845415643873635357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_33
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 360
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ce6c05cdb33440f8e5fec6add11ade
+      internalID: 2371215792818617259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_34
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 360
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb866871639d64d72a35e57d316e622d
+      internalID: 2436288251762138985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_35
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 360
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb763022dfa24a01bc815ca4ec6c580
+      internalID: -8088301422274753124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8a8e9786fcd42a081229123693ce2f
+      internalID: 7691426137696513271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ce9bda469784c87a2cab08d3b4e8b1
+      internalID: 7670434708696466654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 288
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77bac52dc5614f7b850fe7a20eca49d
+      internalID: -3665330344505518062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 288
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cf06ce5707a4dbcb172413acdeebb8
+      internalID: 2301181904404899293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 288
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74dfcbc6063c4350a3722f534a1e0ee
+      internalID: 246220277088545733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 288
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9f3e32331044e1dbddebc1e400f51e
+      internalID: 7958499561230642987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 288
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111ca97c9c3d940179de4c3159bc6841
+      internalID: 2239131148179525222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 288
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dc99a1752194a6c9856012d5873d60
+      internalID: 1012583618506035982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_44
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 288
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e3b11e1d8574c9da20cb7278e3c59d
+      internalID: -2322343675120504482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_45
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 288
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bd8d64210544c7ba04be388e357947
+      internalID: 6429434116052096393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_46
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 288
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b459f6e977a84471ad30c29dde228b5
+      internalID: 6987757839843896618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_47
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 288
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f78093f427446de857ee7592a7a7c2
+      internalID: 7963533808082853092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 216
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21e1748f4445436baba87f767a03827
+      internalID: -1657381230946035332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 216
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fc40ee21ca14065ae955eff5e511e8
+      internalID: -4396573933003103070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 216
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d101bf7c3fa41779ae1e3e451af875
+      internalID: -8169762550215343087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 216
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ce22a74208a46c58140520c4de9112
+      internalID: 5921196197986405868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 216
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d9d25a3381448d6b2017d4333eee02
+      internalID: -6484928346982780953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_53
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 216
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9e1e7bbf8124f939235e806d8f2759
+      internalID: 130440093370013658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_54
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 216
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb261d1f315264311947e83c66d3ad3d
+      internalID: -541893554570743815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_55
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 216
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79e8d6bd98604b40b520bb704950a1a
+      internalID: -1492050999162831117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_56
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 216
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4c36a4d4f004267af01fb29263c233
+      internalID: -5205643665565568008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_57
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 216
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c0b981d358a44c9801f84fc3ffe5ac
+      internalID: 5906000667692057942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_58
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 216
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aa3dd9be64442299d5b308ee8421d0
+      internalID: -1535339663144272664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_59
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 216
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b51970211c8459fbfda7080a3c9ef2
+      internalID: -6032298525972229741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec11093049e5448f6882ad30725191df
+      internalID: -8855028483733601237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 144
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4328adc2435c145788f8a97b385b6456
+      internalID: 7338798639409974491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6d3631c303a479bb48b8fa5cc0d4ee
+      internalID: -4131428664969093378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 144
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cb34cf59a0147b3865d33f5b92d744
+      internalID: -7567408974998411117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 144
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a98e7de1b39b44a9b458ca33fbc3624
+      internalID: 5530024048595774560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_65
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 144
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262636936300744f2abe75f3dc279657
+      internalID: 7843792458715655615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_66
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 144
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5aec58ae6424377b3297f0e041b322
+      internalID: 502237255972473310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_67
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 144
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e940adbdac9454eb5e460a376d65be
+      internalID: 8192378585441130645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_68
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 144
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf29ee1c2806f4c5f93546796ab1d396
+      internalID: -8378949537331600703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_69
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 144
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba684848bbb24db59ce5f1dfaa5a1a1
+      internalID: -2240858073293472550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_70
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 144
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e892de72122de430593312466bbc21fc
+      internalID: 115113737467356066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_71
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 144
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7050295fe1766428089c72ed9a669388
+      internalID: -6966174967103055796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 72
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dc58ee3faed42398d25d03ca875881
+      internalID: 3862658632208960604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 72
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc6f9811ada54e3c864044c05261782
+      internalID: -7030793690382881283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_74
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 72
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c055d94aa51f4ab2a214d72c1cb303a
+      internalID: -5942438848607567257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 72
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9c959fe87d24690b35e8eb263ef9da
+      internalID: 5236743918033875650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_76
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 72
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e77c7d371bd4437a9a036163d16a8ed
+      internalID: -6722087554943562046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_77
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 72
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2973c10aaf9ab423695e71b5819f04c2
+      internalID: 4124976951238573115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 72
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f29fe9be42d431482a5576be45eba0
+      internalID: 8247642533918186266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_79
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 72
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1977841e05947e186f82e540a81fe0
+      internalID: 2363691216959405940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 72
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210daf474a7634dfe9f5ba43fe92419b
+      internalID: -8912977795969824864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_81
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 72
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dd362d84d8a4c5eb935bb705d8f675
+      internalID: -3284085093327101575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_82
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 72
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2300f0f7cac48468eb9728e5fd7d19ef
+      internalID: 7082255255958714012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_83
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 72
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda3ea9005fc04b0ebd4834271c10551
+      internalID: -3745272442380524093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556facb2feaca49c29b47cd2247cc5d3
+      internalID: -7707678083009170638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_85
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686a2d877b70a43f08531ca809c5b45b
+      internalID: 8360881947057472245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_86
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b06b02f348d46ddabec3e2c785d902
+      internalID: -2167535230178571331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e9a11755cf64760bdf23333e49c10e
+      internalID: 3664183928882578966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_88
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7d2cc448ff74fb194d8ca72a203694
+      internalID: -8572926039333484952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_89
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c492e878a56d34d918d3abaaa70c6e73
+      internalID: 4628509049736324192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_90
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922d4e4b359824471bf08048456b61e5
+      internalID: -7932687281707794916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_91
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd40c53c1b6f44a74a9327a9c13a211e
+      internalID: -144882446599955915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_92
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b206fe893b54de39472bb504398710
+      internalID: -8486540897222210384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_93
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680aad67221454c199557aa5f364c603
+      internalID: 5760980064570991280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_94
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 0
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6bf33754f314185ad310552b3a8cf7
+      internalID: -2139987356248913323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 288-2886473_transparent-sprite-rpg-free-rpg-sprite-sheet-clipart_95
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f465ac982899947eca2a2ecdf174c652
+      internalID: -690432745777500177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: be37217dcac0f49dda5aabda67a99f39
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

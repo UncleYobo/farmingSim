@@ -1,0 +1,2907 @@
+fileFormatVersion: 2
+guid: c996e5fd01a9040f0a7f2d647f589d69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3025775875588324905
+    second: farming_fishing_0
+  - first:
+      213: -3710571889755313813
+    second: farming_fishing_1
+  - first:
+      213: -7639137050515886807
+    second: farming_fishing_2
+  - first:
+      213: 8839901687045065030
+    second: farming_fishing_3
+  - first:
+      213: -7074967230071757252
+    second: farming_fishing_4
+  - first:
+      213: 8085904215888208318
+    second: farming_fishing_5
+  - first:
+      213: 4331619999958166062
+    second: farming_fishing_6
+  - first:
+      213: -8159379598014784798
+    second: farming_fishing_7
+  - first:
+      213: -5907039953057088900
+    second: farming_fishing_8
+  - first:
+      213: -3020691379598021805
+    second: farming_fishing_9
+  - first:
+      213: 7630572274552919236
+    second: farming_fishing_10
+  - first:
+      213: -8661482584497496753
+    second: farming_fishing_11
+  - first:
+      213: -2578870766683668072
+    second: farming_fishing_12
+  - first:
+      213: -3717767778252088335
+    second: farming_fishing_13
+  - first:
+      213: 6514564632481407517
+    second: farming_fishing_14
+  - first:
+      213: -4523296042107287433
+    second: farming_fishing_15
+  - first:
+      213: -5821108401200203516
+    second: farming_fishing_16
+  - first:
+      213: -5364544836399191565
+    second: farming_fishing_17
+  - first:
+      213: -740943460974292347
+    second: farming_fishing_18
+  - first:
+      213: 5838008860260510146
+    second: farming_fishing_19
+  - first:
+      213: -2472099807730422747
+    second: farming_fishing_20
+  - first:
+      213: -6448780110907402696
+    second: farming_fishing_21
+  - first:
+      213: -7590188822802702761
+    second: farming_fishing_22
+  - first:
+      213: 6953277031146546702
+    second: farming_fishing_23
+  - first:
+      213: -4982962274937969919
+    second: farming_fishing_24
+  - first:
+      213: 4707900041559482401
+    second: farming_fishing_25
+  - first:
+      213: -2084826726529597766
+    second: farming_fishing_26
+  - first:
+      213: 1601428163486760971
+    second: farming_fishing_27
+  - first:
+      213: 7353622229077173889
+    second: farming_fishing_28
+  - first:
+      213: -1251277534772106647
+    second: farming_fishing_29
+  - first:
+      213: -4545834081175431066
+    second: farming_fishing_30
+  - first:
+      213: -46653526140605870
+    second: farming_fishing_31
+  - first:
+      213: -3277440591395705643
+    second: farming_fishing_32
+  - first:
+      213: -1388680312372089983
+    second: farming_fishing_33
+  - first:
+      213: 7734547866799174708
+    second: farming_fishing_34
+  - first:
+      213: -1070758903467642439
+    second: farming_fishing_35
+  - first:
+      213: -6438769426520635736
+    second: farming_fishing_36
+  - first:
+      213: -7979689640720523163
+    second: farming_fishing_37
+  - first:
+      213: 7488772786520542072
+    second: farming_fishing_38
+  - first:
+      213: 7239910703569612254
+    second: farming_fishing_39
+  - first:
+      213: 2118931881741879199
+    second: farming_fishing_40
+  - first:
+      213: -7527493284859537062
+    second: farming_fishing_41
+  - first:
+      213: -3368448580991047492
+    second: farming_fishing_42
+  - first:
+      213: 2283210837136538395
+    second: farming_fishing_43
+  - first:
+      213: 2029986560770115427
+    second: farming_fishing_44
+  - first:
+      213: -4693468789292928436
+    second: farming_fishing_45
+  - first:
+      213: -8160685522289475710
+    second: farming_fishing_46
+  - first:
+      213: 8227020965813804504
+    second: farming_fishing_47
+  - first:
+      213: 7269032144088891486
+    second: farming_fishing_48
+  - first:
+      213: -1950212983548769161
+    second: farming_fishing_49
+  - first:
+      213: -8228668700507616286
+    second: farming_fishing_50
+  - first:
+      213: -2841884562536087819
+    second: farming_fishing_51
+  - first:
+      213: -8480078264861027228
+    second: farming_fishing_52
+  - first:
+      213: 3703745575280476144
+    second: farming_fishing_53
+  - first:
+      213: 3064574808496756976
+    second: farming_fishing_54
+  - first:
+      213: 2390645090118898584
+    second: farming_fishing_55
+  - first:
+      213: 5690709240604040706
+    second: farming_fishing_56
+  - first:
+      213: -4444346504110774368
+    second: farming_fishing_57
+  - first:
+      213: -6931074771932033886
+    second: farming_fishing_58
+  - first:
+      213: -1195603907104562096
+    second: farming_fishing_59
+  - first:
+      213: -6932554061416027691
+    second: farming_fishing_60
+  - first:
+      213: 4105837612702107123
+    second: farming_fishing_61
+  - first:
+      213: -2516453139186697082
+    second: farming_fishing_62
+  - first:
+      213: -2168156707622328848
+    second: farming_fishing_63
+  - first:
+      213: -3180653870675896981
+    second: farming_fishing_64
+  - first:
+      213: 7551401190766841093
+    second: farming_fishing_65
+  - first:
+      213: 7394197899553141908
+    second: farming_fishing_66
+  - first:
+      213: 9193507701084492910
+    second: farming_fishing_67
+  - first:
+      213: 4467110520242966105
+    second: farming_fishing_68
+  - first:
+      213: -7584274666027336322
+    second: farming_fishing_69
+  - first:
+      213: 3805479683662117390
+    second: farming_fishing_70
+  - first:
+      213: 7264745855097775082
+    second: farming_fishing_71
+  - first:
+      213: -8776761623298917379
+    second: farming_fishing_72
+  - first:
+      213: -6219793194311702659
+    second: farming_fishing_73
+  - first:
+      213: -3165745302819149273
+    second: farming_fishing_74
+  - first:
+      213: 5976949339416955585
+    second: farming_fishing_75
+  - first:
+      213: -3423676105023226214
+    second: farming_fishing_76
+  - first:
+      213: -2787150882589407191
+    second: farming_fishing_77
+  - first:
+      213: -2204279621514355353
+    second: farming_fishing_78
+  - first:
+      213: 8966888991866723980
+    second: farming_fishing_79
+  - first:
+      213: 109386384742705897
+    second: farming_fishing_80
+  - first:
+      213: 977947730785828369
+    second: farming_fishing_81
+  - first:
+      213: 806468083584585886
+    second: farming_fishing_82
+  - first:
+      213: 4801230801700845827
+    second: farming_fishing_83
+  - first:
+      213: 5195367742596826311
+    second: farming_fishing_84
+  - first:
+      213: -5633562359414820505
+    second: farming_fishing_85
+  - first:
+      213: 3479872508230005265
+    second: farming_fishing_86
+  - first:
+      213: 5091896137562966962
+    second: farming_fishing_87
+  - first:
+      213: 4757746083098969143
+    second: farming_fishing_88
+  - first:
+      213: 188679177871675000
+    second: farming_fishing_89
+  - first:
+      213: 1124159751473330147
+    second: farming_fishing_90
+  - first:
+      213: -2860982151017514758
+    second: farming_fishing_91
+  - first:
+      213: 6067699661098695469
+    second: farming_fishing_92
+  - first:
+      213: -1244875894922329115
+    second: farming_fishing_93
+  - first:
+      213: 2457061182871746621
+    second: farming_fishing_94
+  - first:
+      213: 152156402753815426
+    second: farming_fishing_95
+  - first:
+      213: -5727567371471572825
+    second: farming_fishing_96
+  - first:
+      213: -1998573736596885489
+    second: farming_fishing_97
+  - first:
+      213: 1180792587159967965
+    second: farming_fishing_98
+  - first:
+      213: 5694823081116483551
+    second: farming_fishing_99
+  - first:
+      213: 1713324167791989379
+    second: farming_fishing_100
+  - first:
+      213: -2655000428412526916
+    second: farming_fishing_101
+  - first:
+      213: 8322229590634884780
+    second: farming_fishing_102
+  - first:
+      213: 8443693975416864595
+    second: farming_fishing_103
+  - first:
+      213: 3064463128712760292
+    second: farming_fishing_104
+  - first:
+      213: -2274827778193826321
+    second: farming_fishing_105
+  - first:
+      213: -8568557897757737315
+    second: farming_fishing_106
+  - first:
+      213: 2908114567020837604
+    second: farming_fishing_107
+  - first:
+      213: -7452168359598727671
+    second: farming_fishing_108
+  - first:
+      213: 2779287525087526082
+    second: farming_fishing_109
+  - first:
+      213: 5571827514400878971
+    second: farming_fishing_110
+  - first:
+      213: 2330243269808966185
+    second: farming_fishing_111
+  - first:
+      213: 2164944930691304213
+    second: farming_fishing_112
+  - first:
+      213: 1850530218455440019
+    second: farming_fishing_113
+  - first:
+      213: -6231244881199732186
+    second: farming_fishing_114
+  - first:
+      213: 3500749438163090970
+    second: farming_fishing_115
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: farming_fishing_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 608
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6bd274a21164fdba29ee9439d9a440
+      internalID: -3025775875588324905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 580
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841fd11783b354bdcb50277edc5cccd1
+      internalID: -3710571889755313813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 614
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be730efaab8462e9319ea9765f8c2d
+      internalID: -7639137050515886807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 610
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d43c2fa355ec4aec9bd2e0a680ded85
+      internalID: 8839901687045065030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 631
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0c9ab8abf77432c82a62ed1196b722
+      internalID: -7074967230071757252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 633
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36badab7acb6c43d283ea697f11101ea
+      internalID: 8085904215888208318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 624
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a613d9af1cd99420d944832491c61f2e
+      internalID: 4331619999958166062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 628
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd185bc2d213c45fca88604a6f389666
+      internalID: -8159379598014784798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 544
+        width: 159
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352f98b1cd8e4477f8a63152f76bc8a6
+      internalID: -5907039953057088900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 592
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a51488c0c524be5a144f02bc07c344
+      internalID: -3020691379598021805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 622
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f7efc86e0484880a33af381614d75b
+      internalID: 7630572274552919236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 610
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7fe432423ac4019a269d50f309387c
+      internalID: -8661482584497496753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 576
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bd38c71defc4564aad6e0d441c7578
+      internalID: -2578870766683668072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 578
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf523c7d6f4a449d9fcccd4fdd9a4a0
+      internalID: -3717767778252088335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_14
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 577
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38013d40ad7e49e0b5df156e772fdac
+      internalID: 6514564632481407517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 601
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730abb7c901984a45abab8f7b48445fd
+      internalID: -4523296042107287433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 602
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc31cc718f47c4f2f843de6b819603c0
+      internalID: -5821108401200203516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 593
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2636099ec6941519da67307fac18af
+      internalID: -5364544836399191565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 588
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4f2036a592d45c19cfc2d4d6604f71
+      internalID: -740943460974292347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 586
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb5ccbc703d44b6e9854df4659d033a
+      internalID: 5838008860260510146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b894f1868d54d7d8d0a2792bb7d3cd
+      internalID: -2472099807730422747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 544
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b66590a05704c56a5e0d9c9da66a20
+      internalID: -6448780110907402696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7066db7506bab4728bee3e9f3938e262
+      internalID: -7590188822802702761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 224
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17d8467165ce4f39950ba094c1155e0
+      internalID: 6953277031146546702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 550
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd392e5d1d1416d991d2cac978b2a1
+      internalID: -4982962274937969919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 551
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1291a4ad1971343a0857fbd4a7c40713
+      internalID: 4707900041559482401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 547
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b235034f1b06f4ccd86b73d063ce1f4a
+      internalID: -2084826726529597766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_27
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 548
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42f2b2f2cc05448f909c3b12313b78c
+      internalID: 1601428163486760971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_28
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 552
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4589a9b1159483493c64e36c2564e0
+      internalID: 7353622229077173889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f73ab88a815b46a8bf9eefc403ce551
+      internalID: -1251277534772106647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_30
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 455
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001ab19afb98a4c1b98aa6f04621e378
+      internalID: -4545834081175431066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 520
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66dd3ac9e6a9483d8620cbecc9f03c3
+      internalID: -46653526140605870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5294e6f71262b40a0bed8fcc582384eb
+      internalID: -3277440591395705643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375c068b2d7d84716a4773616deb918a
+      internalID: -1388680312372089983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 454
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5802c3aa9ff545569bb3693fd485b15
+      internalID: 7734547866799174708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_35
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 488
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceee9996fff444875a70b1e52bf48acf
+      internalID: -1070758903467642439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e1cee2225849c7a4a624cba2d57ff
+      internalID: -6438769426520635736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_37
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 451
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9736cc1c609e943ee909bf8568e3dc83
+      internalID: -7979689640720523163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7dbd1c210354af4a000a2061ec8a7e
+      internalID: 7488772786520542072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614e3f5557bbb4d95ab71aab49b6f10c
+      internalID: 7239910703569612254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 390
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df8eb1f74694653a3f7a38640164d3
+      internalID: 2118931881741879199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_41
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 424
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d4da74ec5f748e5be19e5597455069
+      internalID: -7527493284859537062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_42
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 409
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cede8b87c481b4fc6a58c7f3a3a477a1
+      internalID: -3368448580991047492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_43
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 424
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b595d89fb69fa4006a4a95795df7bdec
+      internalID: 2283210837136538395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2210a65e3674606a369bb036b8f778
+      internalID: 2029986560770115427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_45
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 352
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96434b6766db54f80811935c47f6b324
+      internalID: -4693468789292928436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_46
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 388
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6280bbbb3b7e34d908572b271838a8f0
+      internalID: -8160685522289475710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_47
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 408
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375cb546db02048bf8055d8ac3227238
+      internalID: 8227020965813804504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 397
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51291aacfd4e6497eb8e4c418e1888d1
+      internalID: 7269032144088891486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_49
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 389
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79885886200f54edbb4139f04a19e28a
+      internalID: -1950212983548769161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_50
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 385
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0abc8c2c4a2d448c94b1236357247b4
+      internalID: -8228668700507616286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_51
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 392
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be120b8d72224fd29ff70c6cf8ec473
+      internalID: -2841884562536087819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 354
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccd887b698974a6886ed02d6033802d
+      internalID: -8480078264861027228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 310
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003e16f9ab9e14c2e9551dba06af5907
+      internalID: 3703745575280476144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_54
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 357
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11803987c77f94768a7c34dc6bf16327
+      internalID: 3064574808496756976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_55
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 357
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42f34fa9c2c6432db6f0bfdd9dc93e1
+      internalID: 2390645090118898584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 356
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dff6f6828d8436983c105d4ac9c360
+      internalID: 5690709240604040706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 356
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e44a90bb22af4088ab5244d0fb11d88
+      internalID: -4444346504110774368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 357
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d19eabf2f044662895c66a1cc802bf
+      internalID: -6931074771932033886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_59
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 353
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4898d67b03e174eb690523582ca592c1
+      internalID: -1195603907104562096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_60
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 360
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7fc1df4bfbf41598f03e5fbf36619a
+      internalID: -6932554061416027691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_61
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 352
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbc36c2a91294f539f64476c2c7100a
+      internalID: 4105837612702107123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_62
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 366
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5121b12fa332f46199ffcf54b1779500
+      internalID: -2516453139186697082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 338
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88499f6047f7740848b7511ef96f4710
+      internalID: -2168156707622328848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_64
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 332
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80b8ca90c6204736be22990d56eb789
+      internalID: -3180653870675896981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_65
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 344
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43f15869eefc48a9823a75c7d6c355c
+      internalID: 7551401190766841093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_66
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 354
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c7ac43ce21246278fd4e3b4656e083
+      internalID: 7394197899553141908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_67
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 323
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6d8f9aeca22422d95a2e5ebe112dd3
+      internalID: 9193507701084492910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 323
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013158a834af24117826521a556bc93b
+      internalID: 4467110520242966105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_69
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 324
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1afe0d12dec4f92ade0148d545c9c8
+      internalID: -7584274666027336322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_70
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 323
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d3b693a698c41a7a38e1706f28d6c6
+      internalID: 3805479683662117390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_71
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 322
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92066cbb132ae483faf3ca9e1b39a8f1
+      internalID: 7264745855097775082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_72
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 322
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517bb13b8b6c94d128d89a7b726dce9e
+      internalID: -8776761623298917379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_73
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 321
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f71a9037bfc41cab15c302b0ab920a
+      internalID: -6219793194311702659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_74
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 328
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efee34d6cc77246be86f00fddffc1ced
+      internalID: -3165745302819149273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_75
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 341
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b4a4de093f9454997607b9136e5d3c
+      internalID: 5976949339416955585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_76
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 325
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0517459270c04449bbf802d2c87a1136
+      internalID: -3423676105023226214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_77
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d44f1f3df8944bcad85a1841f572cf
+      internalID: -2787150882589407191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_78
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 325
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3b0f26654dd4f9faf2d51aef0b3e53
+      internalID: -2204279621514355353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_79
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 290
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65fdf79107804bcf86064ea8b39183d
+      internalID: 8966888991866723980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_80
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 278
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1bc481e2fb04332821e0bb56b4aab1
+      internalID: 109386384742705897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 278
+        width: 255
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66353d56d6f240c4a1fa30a6d5a1426
+      internalID: 977947730785828369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_82
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 294
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff37a0a034ec44c59906a243bbc93a18
+      internalID: 806468083584585886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_83
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 285
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7c17e1a85794730b4b7a0ab74bbdc8
+      internalID: 4801230801700845827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 274
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a2eb4d237274305b6cb7aece78ddd2
+      internalID: 5195367742596826311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_85
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 264
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3519b3544ee4ae9916c19e20d45daf
+      internalID: -5633562359414820505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 262
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619d13c9a52234fa6923b361b138685c
+      internalID: 3479872508230005265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_87
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 264
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a92c9c3bde454375948a41a4273de9c
+      internalID: 5091896137562966962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_88
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 258
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b092cae99940e40fc9beb36bec66c451
+      internalID: 4757746083098969143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_89
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 228
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bd97eabb14d41738077a4cfe460463
+      internalID: 188679177871675000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_90
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 209
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0676d6da691bd45bab06a082e6d741c9
+      internalID: 1124159751473330147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_91
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 215
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f4b0bb3db9c418ea8873923945da3d
+      internalID: -2860982151017514758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_92
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 231
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c25c440f1eb34d34980d22f3c667631
+      internalID: 6067699661098695469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 202
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b999b4ba5745c403e8e7c0a561953b84
+      internalID: -1244875894922329115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 212
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfccbcf0b63d4417a9b48a1966436420
+      internalID: 2457061182871746621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_95
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 196
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af48e2e1302040c4a0c6686324a36ca
+      internalID: 152156402753815426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_96
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 199
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e39aa47490b549aebb1df4ef6736cdb
+      internalID: -5727567371471572825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_97
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 162
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a73626bca9374997ac191236637ae8f
+      internalID: -1998573736596885489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_98
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 150
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4141b08fc004421be41a082b1e0550
+      internalID: 1180792587159967965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_99
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 123
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b427204deab9a4595b6184a90bc9bf8c
+      internalID: 5694823081116483551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_100
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 127
+        width: 123
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc69a13b694849b38da5aaf180f8cc6
+      internalID: 1713324167791989379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_101
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 167
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575f86f54b3ee4adf98388daf91c87c7
+      internalID: -2655000428412526916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_102
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 136
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa3672aef86c476db26554512dccff4
+      internalID: 8322229590634884780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377a5c5833c9d4e8e8e064d69e6fa32b
+      internalID: 8443693975416864595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_104
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 130
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928121f84d20c415299de44675103d20
+      internalID: 3064463128712760292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868558237d11413192457ee749930a6
+      internalID: -2274827778193826321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_106
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 135
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042f311e9b29046d68633d4e4e6c5bc0
+      internalID: -8568557897757737315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_107
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 84
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec8ce09f4ac74a188ded20fee1aa7a5
+      internalID: 2908114567020837604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_108
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a726aadc3d349dfb8ec50bd43d7be0
+      internalID: -7452168359598727671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_109
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 80
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834234ba70f934efbb3b6592b4edf3a3
+      internalID: 2779287525087526082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_110
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 67
+        width: 127
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567805e7dc7984b4c81467b03dca4ab3
+      internalID: 5571827514400878971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_111
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 65
+        width: 127
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f54fc6208d3943918c865239cabb726
+      internalID: 2330243269808966185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_112
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 98
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aaee687863e487db6603fc7d3dd304
+      internalID: 2164944930691304213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 71
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c0c50c342b64d2c86ccb44b7d4c11d
+      internalID: 1850530218455440019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_114
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 68
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15521f6a27d3f449e9162705f6ae8789
+      internalID: -6231244881199732186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming_fishing_115
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 66
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76cb42cd8431469b8186a14b82d8f12
+      internalID: 3500749438163090970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d4a2d04a6f4d244f5805b9e0dc30d902
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
